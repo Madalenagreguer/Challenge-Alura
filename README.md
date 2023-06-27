@@ -2,6 +2,9 @@
 
 ## Challenge-Alura-One / Codificador e Decodificador de texto.
 
+
+![tempsnip](https://github.com/Madalenagreguer/Challenge-Alura/assets/111307963/69edc76e-4279-4ec4-a86d-ebb3ccd4ec89)
+
 ## **Requisitos**
 
 - Deve funcionar apenas com letras minúsculas
